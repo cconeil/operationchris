@@ -1,9 +1,14 @@
 a {
-	font-size: 32px;
+/*	font-size: 32px;*/
 	text-decoration: none;
 	color: black;
 }
 
+a:hover {
+	opacity: 1;
+	text-decoration: none;
+	color: black;
+}
 
 .center {
 	text-align: center;
@@ -12,6 +17,10 @@ a {
 	width: 100%;
 	top:50%;
 	margin-top:-50px;
+}
+
+.half {
+	opacity: .5;
 }
 
 .nav-button {
@@ -47,7 +56,7 @@ a {
 }
 
 #back-button {
-	position: absolute;
+	position: fixed;
 	z-index: 2;
 	top:1%;
 	left:1%;

@@ -3,6 +3,12 @@ $(document).ready(function() {
 
 	// hide all other divs
 	$('#two').hide();
+	
+	$('.nav-button').powerTip({
+	    placement: 's',
+	    smartPlacement: true
+	});
+
 	$('#three-bio').hide();
 	$('#three-portfolio').hide();
 	$('#back-button').hide();

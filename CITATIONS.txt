@@ -31,6 +31,13 @@
 
 		<!--
 		ICON CITATION
+		Skip Backward - designed by Alex Fuller at the Noun Project
+		"http://thenounproject.com/noun/skip-backward/#icon-No10597"
+		"http://thenounproject.com/alexfuller"
+		-->
+
+		<!--
+		ICON CITATION
 		Photo Gallery - designed by Ricardo Moreira at the Noun Project
 		"http://thenounproject.com/noun/photo-gallery/#icon-No12634"
 		"http://thenounproject.com/skatakila"
